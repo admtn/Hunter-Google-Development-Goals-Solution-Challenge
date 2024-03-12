@@ -4,7 +4,7 @@
 
 Hunter is an innovative solution for finding lost elderly, children, and pets using the power of technology and the gig economy. Our app aims to contribute to the UN Sustainable Development Goals by promoting strong communities and ensuring the well-being of our loved ones. This app is built as a submission for the [GDSC 2023 Solution Challenge].
 
-App introduction : https://youtu.be/gdw17XGx9vw
+# App introduction -> https://youtu.be/gdw17XGx9vw
 
 https://github.com/admtn/Hunter-Google-Development-Goals-Solution-Challenge/assets/84576312/7bd860b6-a557-49ae-809c-02e80e2ce73e
 
